@@ -20,6 +20,5 @@ EAを考えるときの「お手本」みたいなモデルがいくつかある
 - **Zachman Framework**  
   → 6W1H（何を、なぜ、誰が、どうやって…）で整理する古典的なモデル  
 
-![image](https://github.com/user-attachments/assets/db9ea676-4cd1-487f-bf04-0e02cd5d8ddc)
-
+![image](https://github.com/user-attachments/assets/240855ff-68c2-4475-b65a-8af941b666ac)
 
