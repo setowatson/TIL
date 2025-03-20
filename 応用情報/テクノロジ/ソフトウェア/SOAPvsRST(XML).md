@@ -1,14 +1,11 @@
 
 # SOAPとRESTの違い
 
-(Simple Object Access
-Protocol)
-SOAP は、XML ベースのプロトコルで、Web
-サービス間の通信に使用されます。
+(Simple Object AccessProtocol)
+SOAP は、XML ベースのプロトコルで、Webサービス間の通信に使用されます。
 
 
-(Representational State
-Transfer)
+(Representational StateTransfer)
 REST は、HTTP の仕組みを活用したAPI設計のスタイルで、Web サービス間の通信に使わ
 
 | 項目            | SOAP                         | REST                          |
