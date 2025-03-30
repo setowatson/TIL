@@ -21,6 +21,22 @@ WPA（Wi-Fi Protected Access）は、無線LAN（Wi-Fi）のセキュリティ�
 - **TKIP（Temporal Key Integrity Protocol）**：WEPの弱点を補うための一時的な対策（WPAで採用）。
 - **AES（Advanced Encryption Standard）**：強力な暗号方式。WPA2で採用。
 
+1. TKIP（旧世代の暗号化技術）
+WEPの弱点（固定キー）を改善
+パケットごとに異なる暗号鍵を生成（動的鍵交換）
+しかし、現在は 脆弱性が発見され非推奨
+
+2. AES（強力な暗号化技術）
+政府レベルの暗号標準
+**CCMP（Counter Mode Cipher Block Chaining Message Authentication Code Protocol）**と組み合わせて使用
+現在の主流技術（WPA2・WPA3で採用）
+
+3. SAE（WPA3の新しい認証方式）
+辞書攻撃を防ぐ強固なパスワード認証
+パスワードを直接送信せず、より安全に鍵を交換（オフライン攻撃に強い）
+WPA3で採用
+
+
 #### 🔹 **WPAの認証モード**
 1. **パーソナルモード（PSK：Pre-Shared Key）**  
    - 事前に共有したパスワードで接続  
