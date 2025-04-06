@@ -1,5 +1,6 @@
 
 ## ✅ PCI（Peripheral Component Interconnect）バス
+Peripheral ：周辺
 
 ### 💡 概要：
 **PCI**は、コンピュータ内部で周辺機器（**ペリフェラル**）とCPUやメモリとの間でデータを転送するための標準的なバス（接続インターフェース）です。
