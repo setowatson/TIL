@@ -25,6 +25,8 @@
 　→ アプリを改修せずSSOを実現したいときに便利  
 　例：Apache＋mod_auth、NGINX＋OpenRestyなど
 
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/55060fc7-caab-4ec2-8f56-d2cd6d2c1325" />
+
 - 🌐 **SAML方式**：  
 　→ 異なるドメイン・異なる企業・クラウドサービスをまたぐ場合に強力  
 　例：Azure ADやGoogle Workspaceと外部SaaSの連携
